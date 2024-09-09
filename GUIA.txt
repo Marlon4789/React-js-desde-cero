@@ -1,0 +1,12 @@
+
+Instalar node js.
+
+crear proyecto
+# vite.dev
+
+# create-react-app.com
+npx create-react-app my-app
+cd my-app
+npm start
+
+
